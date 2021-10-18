@@ -11,3 +11,6 @@ Recently I have read a book called "I Will Teach You To Be Rich" by Ramit Sehti.
 3. How would you explain to your grandmother what Availity does?
 
 Availity develops software that allows healthcare providers to easily access different information about their patients. It gives them an easy and organized platform to access patient records, payments, claims, and any other document that health care workers need to provide the best and fastest care to their patients. It also allows new patients to register with a provider. Overall, it is an amazing service that streamlines health service in the digital age.
+
+4. Check CheckParentheses.java
+5. Check csvsorter folder
